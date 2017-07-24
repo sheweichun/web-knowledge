@@ -39,6 +39,7 @@ out/vs/workbench/electron-browser/bootstrap/index.js
 
 ```
 out/vs/workbench/electron-browser/workbench.ts
+//核心渲染方法renderWorkbench
 ```
 
 
