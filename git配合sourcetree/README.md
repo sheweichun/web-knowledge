@@ -94,5 +94,11 @@ git merge daily/0.0.1 合并本地daily/0.0.1
 
 ## 步骤17
 
-切换到daily/0.0.2分支，推送到远程仓库
+切换到daily/0.0.2分支，推送到远程仓库，然后修改文件后，推送到远程仓库，再添加build目录，再次推送
+
+![](/git配合sourcetree/assets/DingTalk20170728130720.png)
+
+## 步骤18
+
+切换到daily/0.0.1分支，添加build目录，推送日常，然后打标tag，推送publish/0.0.1
 
