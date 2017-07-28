@@ -90,5 +90,9 @@ git merge daily/0.0.1 合并本地daily/0.0.1
 
 切换到daily/0.0.2分支，推送到远程仓库
 
+![](/git配合sourcetree/assets/DingTalk20170728120003.png)
 
+## 步骤17
+
+切换到daily/0.0.2分支，推送到远程仓库
 
