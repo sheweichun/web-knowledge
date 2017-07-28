@@ -76,11 +76,19 @@ git branch -b daily/0.0.1 创建一个分支daily/0.0.1，daily/0.0.1和master�
 
 ## 步骤14
 
-git merge daily/0.0.1 合并本地daily/0.0.1，并提交merge with daily/0.0.1
+git merge daily/0.0.1 合并本地daily/0.0.1
 
-
+![](/git配合sourcetree/assets/DingTalk20170728114356.png)
 
 ## 步骤15
+
+提交合并后的结果，提交信息为merge with daily/0.0.1
+
+![](/git配合sourcetree/assets/DingTalk20170728115638.png)
+
+## 步骤16
+
+切换到daily/0.0.2分支，推送到远程仓库
 
 
 
